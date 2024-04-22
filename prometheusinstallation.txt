@@ -1,4 +1,4 @@
-# prometheus_installation
+# prometheus_installation.
 
 - copy these all lines and execute as one command
 - ------------------------------------------------------
@@ -27,6 +27,3 @@ systemctl status prometheus.service node_exporter.service
 #copy ec2 public IP and paste in browser with port no 9090
 #now you should see prometheus dashboard
 #sudo nano  /etc/prometheus/prometheus.yml
-
-
-
